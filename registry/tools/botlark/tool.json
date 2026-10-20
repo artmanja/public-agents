@@ -24,7 +24,7 @@
     "skills": [
       "https://botlark.com/skill.md"
     ],
-    "api": "https://botlark.com/api/v1",
+    "api": "https://botlark.com/api/v1/stories",
     "openapi": "https://botlark.com/openapi.json"
   },
   "domains": [
